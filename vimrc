@@ -13,7 +13,7 @@ set wildmenu
 let g:airline#extensions#tabline#enabled = 1
 
 map <space> :
-noremap l :wq<CR>
+noremap q :wq<CR>
 noremap [ :bn<CR>
 noremap ] :bp<CR>
 noremap tt :Vex<CR>
